@@ -1,0 +1,44 @@
+Northstar Analytics Customer Complaints Policy
+
+Document owner: Customer Operations
+Version: 2.2
+Effective date: January 15, 2025
+Applies to: Sales, Customer Success, Support, Services, and Operations
+
+Purpose
+
+Northstar treats complaints as both customer-care events and sources of operational learning. The objective is to acknowledge the customer's concern, resolve the issue fairly, identify contributing causes, and prevent avoidable recurrence.
+
+What counts as a complaint
+
+A complaint is an expression of dissatisfaction about a product, service, employee interaction, billing experience, implementation outcome, privacy concern, or failure to meet an agreed business expectation. A complaint may be submitted through email, support, chat, a customer-success meeting, a sales conversation, or an executive escalation.
+
+Initial handling
+
+The employee receiving a complaint should listen without interrupting, acknowledge the concern, restate the issue in neutral language, and record the case in the customer relationship management system. The employee should not blame the customer, another team, a vendor, or a technical system.
+
+The customer should receive an acknowledgment within one business day. The acknowledgment should identify the case owner, summarize the next step, and provide the next expected update. Employees must not promise a resolution date that depends on another team without confirming the dependency.
+
+Severity levels
+
+Severity 1 applies to a credible safety, security, privacy, legal, or widespread service concern. Severity 1 complaints must be escalated immediately to the appropriate incident or executive response owner.
+
+Severity 2 applies to a material business impact affecting one customer or a significant service failure. The case owner should coordinate with Customer Success and the responsible delivery or product team.
+
+Severity 3 applies to a contained service issue, recurring friction point, or dissatisfaction that does not create material immediate impact. The case remains with the assigned team and should be resolved through the normal operating process.
+
+Investigation and resolution
+
+The case owner records the customer's stated impact, relevant dates, affected product or service, prior contacts, actions already taken, and requested outcome. The owner coordinates with subject-matter experts while limiting access to customer information to people who need it.
+
+A response should explain what Northstar found, what action will be taken, what the customer should do next, and when the next update will occur. If Northstar cannot provide the requested outcome, the employee should explain the reason and offer the closest available alternative.
+
+Root cause and follow-up
+
+Complaints that are repeated, high severity, or indicative of a systemic problem require a root-cause review. Corrective actions may include product changes, training, documentation updates, process changes, or changes to customer-success coverage.
+
+Customer information must not be used for retaliation or personal criticism. Complaint trends are reviewed monthly by Customer Operations, Product, Customer Success, and Sales Operations. The review focuses on recurring causes, response timeliness, resolution quality, and customer impact.
+
+Escalation
+
+A case must be escalated when the customer reports a security or privacy concern, the issue affects multiple customers, the customer has experienced repeated failed handoffs, the requested outcome requires an exception, or the employee lacks the authority or information to resolve the issue.

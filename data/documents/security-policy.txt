@@ -1,0 +1,44 @@
+Northstar Analytics Security Policy
+
+Document owner: Information Security
+Version: 3.0
+Effective date: January 1, 2025
+Applies to: Employees, contractors, temporary staff, and approved third parties
+
+Purpose
+
+Northstar Analytics protects company systems, customer information, employee information, and intellectual property through preventive controls, responsible behavior, and rapid incident response. Security is a shared responsibility. Every workforce member must protect credentials, use approved tools, and report suspected security issues promptly.
+
+Security principles
+
+1. Least privilege: Access is limited to what a person needs for their current responsibilities.
+2. Defense in depth: Northstar uses multiple safeguards rather than relying on one control.
+3. Secure by default: New systems and services should begin with restrictive settings and expand access only when justified.
+4. Accountability: System activity and material security decisions must be traceable to an owner.
+5. Continuous improvement: Security events, testing results, and customer feedback are used to improve controls.
+
+Identity and access
+
+Multi-factor authentication is required for corporate email, source-code repositories, production systems, customer-support tools, and cloud administration consoles. Passwords must be unique to Northstar systems and must not be shared. Access requests require a business justification and approval from the employee's manager and the relevant system owner.
+
+Access is reviewed quarterly for critical systems and at least annually for other business applications. When a person changes role, the manager and system owner must review whether access remains appropriate. Departing personnel must have access removed by the end of their final working day.
+
+Data classification and handling
+
+Northstar classifies information as Public, Internal, Confidential, or Restricted. Customer production data, authentication secrets, security findings, and personally identifiable information are Restricted. Restricted information may be stored only in approved systems and must not be copied into personal storage, unapproved collaboration tools, or public repositories.
+
+Employees must use company-managed devices for company work, apply security updates promptly, and lock their screens when unattended. Sensitive data should not be included in screenshots, support tickets, or chat messages unless the approved workflow requires it.
+
+Secure development
+
+Code must be reviewed before production release. Engineers must use approved repositories, automated security checks, dependency scanning, and secret detection. Production credentials must never be committed to source control. Critical vulnerabilities must be remediated or formally risk-accepted by the designated security owner before release.
+
+Incident reporting
+
+Suspected phishing, lost devices, accidental disclosure, malware, unauthorized access, or unusual system behavior must be reported immediately through the Security Incident channel. Employees should preserve relevant evidence and should not delete, alter, or investigate suspected evidence beyond what is necessary to protect systems.
+
+Security training and exceptions
+
+All workforce members complete security awareness training at onboarding and annually thereafter. Exceptions require documented business justification, a named owner, an expiration date, and approval from Information Security. An exception is not permanent permission to bypass a control.
+
+Failure to follow this policy may result in access restrictions, corrective action, or other consequences under applicable company procedures. Questions should be directed to Information Security.

@@ -1,0 +1,30 @@
+Northstar Analytics Pricing and Discount Policy
+
+Document owner: Finance and Revenue Operations
+Version: 1.6
+Effective date: January 1, 2025
+Applies to: Sales, Finance, Revenue Operations, Customer Success, and Services
+
+Purpose
+
+Pricing should reflect customer value, delivery effort, expected support needs, and the long-term health of the relationship. Discounts can support a sound business case, but they should not replace qualification or hide a mismatch between customer needs and the proposed solution.
+
+Discount rationale
+
+Every nonstandard discount must include a documented rationale. Acceptable rationales may include a defined strategic entry motion, a time-bound pilot, a multi-year commercial commitment, a measurable expansion opportunity, or a verified competitive situation. The rationale should identify risks and expected learning.
+
+Approval levels
+
+Discounts up to 10 percent require sales-manager approval. Discounts greater than 10 percent and up to 20 percent require regional vice president approval. Discounts above 20 percent require Finance and Revenue Operations review. Approvals should be obtained before the customer receives a final nonstandard proposal.
+
+Customer-success review
+
+Customer Success should review material discounts when the proposed customer requires unusual onboarding, support, implementation, or adoption effort. The review should identify capacity implications, success milestones, and risks to retention. A lower initial price is not beneficial if the customer cannot reach value.
+
+Monitoring
+
+Revenue Operations reviews discount levels, attainment, gross retention, net revenue retention, customer complaints, and expansion outcomes by region and segment. Patterns of high discounting combined with low retention require investigation.
+
+Exceptions
+
+An exception must have a named owner, documented rationale, expiration or review date, and approval at the appropriate level. An exception should not become an informal standard price.

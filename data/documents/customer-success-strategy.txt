@@ -1,0 +1,40 @@
+Northstar Analytics Customer Success Strategy
+
+Document owner: Customer Success Leadership
+Version: 2.0
+Effective date: January 1, 2025
+Applies to: Customer Success, Support, Services, Product, and Sales
+
+Purpose
+
+Northstar defines customer success as helping customers achieve measurable business outcomes from the platform. Customer Success is responsible for coordinating value realization, adoption, risk identification, renewal readiness, and feedback to internal teams.
+
+Customer lifecycle
+
+The customer lifecycle has five stages: qualification, onboarding, adoption, value realization, and renewal or expansion. Sales owns commercial qualification and must provide a complete handoff before implementation begins. Customer Success owns the success plan after handoff and coordinates with Services and Product when dependencies arise.
+
+Onboarding standards
+
+Every new customer receives an agreed success plan that identifies business objectives, executive sponsors, users, milestones, dependencies, and measures of success. The onboarding team should complete an initial value review within 30 days of launch and confirm adoption milestones with the customer.
+
+Accounts with onboarding delays, low adoption, unresolved critical cases, or missing executive sponsorship receive a documented risk status. Risk status is reviewed at least monthly until the risk is reduced or the account is escalated.
+
+Health scoring
+
+Customer health uses four categories: adoption, service experience, relationship strength, and commercial outlook. Health scores are not a substitute for judgment. A declining score should trigger investigation rather than an automatic renewal forecast change.
+
+Customer Success reviews leading indicators such as onboarding completion, time to first value, product usage, support response, complaint volume, customer satisfaction, gross retention, and net revenue retention.
+
+Renewal and expansion
+
+Renewal planning should begin at least 120 days before the renewal date for strategic accounts and at least 90 days before renewal for standard accounts. The success manager documents achieved outcomes, open risks, stakeholder changes, adoption gaps, and the proposed next phase.
+
+Expansion recommendations should be based on customer outcomes and demonstrated need. Employees must not recommend additional products solely to improve an internal sales metric when the customer has unresolved adoption or service problems.
+
+Feedback loop
+
+Customer feedback is categorized as product feedback, service feedback, process friction, or strategic opportunity. Customer Success shares recurring themes with Product, Support, Sales, and Operations during the monthly customer insights review.
+
+Operating principles
+
+Northstar prioritizes early risk identification, clear ownership, fast escalation, measurable outcomes, and honest communication. A customer should not need to repeat the same issue to multiple teams. Handoffs should include the context, impact, commitments, and open decisions needed by the receiving team.

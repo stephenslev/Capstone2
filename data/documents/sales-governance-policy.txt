@@ -1,0 +1,40 @@
+Northstar Analytics Sales Governance Policy
+
+Document owner: Revenue Operations
+Version: 2.1
+Effective date: January 1, 2025
+Applies to: Sales, Solutions Consulting, Customer Success, Finance, and Revenue Operations
+
+Purpose
+
+Sales governance creates consistent qualification, forecasting, pricing discipline, and customer handoff practices. The policy is designed to support profitable growth without creating avoidable delivery or customer-success risk.
+
+Opportunity qualification
+
+Sales opportunities should identify the customer's business problem, decision process, expected value, implementation dependencies, stakeholders, timeline, competition, and next action. A deal should not be treated as forecastable solely because a customer has expressed interest.
+
+Forecast categories
+
+Pipeline means an opportunity is being explored but has not met the minimum qualification standard. Best Case means the opportunity has a credible path to close but contains material uncertainty. Commit means the owner has documented the decision process, commercial path, implementation dependencies, and customer confirmation of the expected timing.
+
+Forecast updates are due weekly. Changes to a Commit opportunity must include the reason for the change and the next action. Revenue Operations reviews unusual forecast movements and material differences between forecast and actual performance.
+
+Customer handoff
+
+Before an opportunity is marked closed-won, Sales must provide Customer Success with the signed commercial summary, customer objectives, promised outcomes, scope assumptions, key stakeholders, implementation dependencies, risks, and open questions. Customer Success may return an incomplete handoff for clarification.
+
+Sales employees must not promise product capabilities, implementation dates, service levels, or outcomes that have not been confirmed by the responsible team. Any exception must be documented and approved through the appropriate internal process.
+
+Discount governance
+
+Discounts should be tied to a documented business rationale and should not be used to hide weak qualification or unresolved customer value concerns. Discounts up to 10 percent require manager approval. Discounts greater than 10 percent and up to 20 percent require regional vice president approval. Discounts above 20 percent require Finance and Revenue Operations review.
+
+A discount should be evaluated alongside implementation effort, support requirements, expected retention, expansion potential, and customer-success risk. The lowest price is not automatically the best commercial outcome.
+
+Performance review
+
+Sales performance is reviewed using revenue attainment, new-logo quality, gross retention, net revenue retention, forecast accuracy, handoff completeness, discount discipline, and customer outcomes. Revenue attainment should be interpreted alongside customer health and retention indicators.
+
+Governance principle
+
+Northstar rewards durable customer value rather than bookings that create avoidable churn, escalations, or delivery strain. Sales and Customer Success jointly review material customer risks before major expansion decisions.

@@ -1,0 +1,26 @@
+Northstar Analytics Incident Response Policy
+
+Document owner: Security and Reliability
+Version: 2.5
+Effective date: January 1, 2025
+Applies to: Security, technology, customer operations, product, and business teams
+
+Purpose
+
+Northstar responds to incidents through a consistent process that limits harm, restores service, communicates clearly, and captures lessons for prevention. An incident may involve security, privacy, availability, data integrity, customer experience, or a critical operational failure.
+
+Incident stages
+
+The standard stages are identify, triage, contain, investigate, recover, communicate, and learn. The incident commander assigns roles, establishes the working channel, maintains the timeline, and coordinates decisions. Technical responders focus on containment and recovery while the incident commander maintains overall coordination.
+
+Severity
+
+Severity 1 incidents create a significant risk to security, privacy, safety, customers, or business operations and require immediate leadership notification. Severity 2 incidents create material but contained impact and require active coordination. Severity 3 incidents are limited in scope and can be managed through normal team processes unless the impact expands.
+
+Communication
+
+Communications should be factual, timely, and appropriate for the audience. Teams must distinguish confirmed facts from working hypotheses. Customer communications are coordinated by the designated customer or communications owner. Employees must not speculate publicly or share confidential incident details outside approved channels.
+
+Post-incident review
+
+Material incidents receive a blameless review that documents impact, timeline, contributing factors, what worked, what failed, and prevention actions. Action items require an owner and target date. Recurring incidents are reviewed for systemic process, training, architecture, or staffing changes.

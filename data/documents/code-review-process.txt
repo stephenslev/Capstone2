@@ -1,0 +1,42 @@
+Northstar Analytics Code Review Process
+
+Document owner: Engineering Enablement
+Version: 2.4
+Effective date: February 1, 2025
+Applies to: Product Engineering, Data Engineering, Platform Engineering, and approved contributors
+
+Purpose
+
+Code review helps Northstar deliver maintainable, secure, and reliable software. Review is a collaborative quality control activity, not a measure of individual worth. The author remains responsible for the change, while reviewers provide an independent assessment.
+
+When review is required
+
+Every change that affects production code, infrastructure, database migrations, security controls, customer-facing behavior, or shared libraries requires review before merge. Documentation-only changes may use a lightweight review. Emergency changes may follow the emergency-release process but must receive retrospective review within two business days.
+
+Pull request expectations
+
+The author creates a focused pull request with a descriptive title, a summary of the change, the reason for the change, test evidence, deployment considerations, and any known limitations. Large changes should be divided into logically independent pull requests where practical.
+
+The author must link the relevant work item and identify changes that affect data, security, availability, customer experience, or operating procedures. Generated code is subject to the same review standards as manually written code.
+
+Review responsibilities
+
+At least one qualified reviewer is required for routine changes. Two reviewers are required when a change affects authentication, authorization, payment processing, production data, infrastructure, or a shared platform component. A security reviewer is required for changes that materially alter security controls or handle new categories of sensitive information.
+
+Reviewers assess correctness, readability, maintainability, test coverage, failure handling, security implications, performance implications, observability, and compatibility with existing interfaces. Review comments should identify the concern and, when practical, explain the desired outcome. Personal criticism is not appropriate.
+
+Approval and merge
+
+All required approvals must be recorded in the pull request. Automated checks must pass before merge unless the release owner documents an approved exception. The author resolves comments or explains why a comment will not be addressed. Reviewers confirm that material concerns are resolved before approval.
+
+The default merge strategy is squash merge unless the repository owner documents another approach. Changes should be merged by an authorized contributor, and direct commits to protected production branches are prohibited except through the emergency process.
+
+Testing and release safety
+
+Tests should cover normal behavior, important edge cases, and failure paths. Changes involving data migrations must include a rollback or recovery plan. Changes with material operational risk require a staged rollout, monitoring plan, or feature flag when feasible.
+
+After release, the author or designated owner monitors relevant dashboards and alerts. Significant defects are documented with the contributing factors, customer impact, and prevention actions.
+
+Review culture
+
+Northstar expects timely, respectful, and specific feedback. Authors are encouraged to request clarification when a comment is unclear. Reviewers should focus on the code and its impact rather than the person who wrote it. Managers should not use review-comment volume as a standalone performance measure.

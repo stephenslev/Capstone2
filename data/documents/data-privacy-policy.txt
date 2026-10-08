@@ -1,0 +1,30 @@
+Northstar Analytics Data Privacy Policy
+
+Document owner: Privacy and Compliance
+Version: 2.3
+Effective date: January 1, 2025
+Applies to: All employees, contractors, systems, and approved service providers handling personal information
+
+Purpose
+
+Northstar collects and uses personal information only for defined business purposes and protects it throughout its lifecycle. Teams must understand what information they collect, why they need it, where it is stored, who can access it, and when it should be deleted.
+
+Data minimization
+
+Only the minimum information needed for a documented business purpose should be collected. Teams must avoid collecting sensitive information merely because a system makes it technically possible. Optional information must be clearly distinguished from required information.
+
+Access and sharing
+
+Access to personal information is limited by role and business need. Personal information must be shared only through approved systems and with authorized recipients. Employees must verify recipients before sending sensitive information and must not paste personal information into public tools or unapproved AI services.
+
+Retention and deletion
+
+Information should be retained only as long as required for the documented purpose, customer commitment, operational need, or applicable recordkeeping requirement. System owners are responsible for implementing approved retention and deletion practices.
+
+Privacy incidents
+
+Suspected unauthorized access, disclosure, loss, or misuse of personal information must be reported immediately to the Privacy and Security teams. Employees should preserve relevant evidence and avoid contacting affected individuals unless directed by the incident owner.
+
+Product and analytics use
+
+Product and analytics teams must document the intended use of personal information, apply appropriate access restrictions, and use de-identified or aggregated information where individual-level detail is not necessary. New uses that materially change the purpose of processing require Privacy review.
