@@ -1,6 +1,6 @@
 ## Trust-but-Verify
 
-Query 1:
+**Query 1:**
 
 1. What changes require code review before merge?
 2. "Every change that affects production code, infrastructure, database migrations, security controls, customer-facing behavior, or shared libraries requires review before merge [Source 1]."
