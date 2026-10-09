@@ -17,14 +17,7 @@
 
 Query 2: 
 1. "Compare Q4 performance across regions"
-2. All Passed
-[Quantitative validation: PASSED]
-  sql_validated: True
-  sql_blocked: False
-  execution_error: False
-  flag: False
-  warning: None
-3. "### Observations
+2. "### Observations
 * **Revenue and Target:** 
   * **West:** Revenue of $652,800.0 (Target: $678,912.0)
   * **North:** Revenue of $598,400.0 (Target: $622,336.0)
@@ -48,20 +41,8 @@ Query 2:
 * Despite differing total revenue figures and targets, all regions performed uniformly relative to their specific targets, each reaching a 96.15% attainment rate.
 SQL used: SELECT region, revenue, target_revenue, attainment_rate, new_customers, renewal_rate, win_rate FROM q4_regional_comparison"
 
-4. I accepted Gemini's responses without changes. The validation layer confirmed that the SQL was read-only and excuted succesfully, producing no errors. Checking with the real data, it is accurate that the West led in revenue, East led in renewal rate, and all regions had a 96.15%.
 
-5. One case were claude produced an output where I did not immediately trust was actually here where it said all three regions has the exact same attainment rate. 
-
-Query 3:
-1. "How does our employee satisfaction compare to industry standards and what policies might impact this?"
-2.  Both passed
-[Qualitative validation: PASSED]
-  is_grounded: False
-  refused_to_answer: True
-  sources_cited: []
-  flag: False
-  warning: None
-
+3. All Passed
 [Quantitative validation: PASSED]
   sql_validated: True
   sql_blocked: False
@@ -69,7 +50,15 @@ Query 3:
   flag: False
   warning: None
 
-3. Both qualitative and quant: 
+4. I accepted Gemini's responses without changes. The validation layer confirmed that the SQL was read-only and excuted succesfully, producing no errors. Checking with the real data, it is accurate that the West led in revenue, East led in renewal rate, and all regions had a 96.15%.
+
+5. One case were claude produced an output where I did not immediately trust was actually here where it said all three regions has the exact same attainment rate. 
+
+Query 3:
+
+1. "How does our employee satisfaction compare to industry standards and what policies might impact this?"
+   
+2. Both qualitative and quant: 
 [Qualitative]
 I cannot find this information in the provided documents.
 
@@ -101,6 +90,22 @@ SQL used: SELECT
     p.industry_benchmark AS policy_benchmark
 FROM employee_satisfaction d
 LEFT JOIN employee_policy_metrics p ON d.period = p.period
+
+3.  Both passed
+[Qualitative validation: PASSED]
+  is_grounded: False
+  refused_to_answer: True
+  sources_cited: []
+  flag: False
+  warning: None
+
+[Quantitative validation: PASSED]
+  sql_validated: True
+  sql_blocked: False
+  execution_error: False
+  flag: False
+  warning: None
+
 
 4. I accepted the quantiative response because it accurately returned the data concerning this query. However, I did not accept the qualitative response which indicated it had no information related to the topic. I knew there would be some text in the "employee-experience-policy.txt" file that would have some related information, but the model likely did not return it because the information didn't feel complete. For this reason, I added this line to the prompt, "If the answer can be partially answered, state so and explain the partial answer that can be provided rather than saying information cannot be found.", un qualitative.py. This drastically changed the qualitative agent's response to the following which highlights what it can answer and what it cannot:
 
