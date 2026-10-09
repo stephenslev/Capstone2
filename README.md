@@ -3,16 +3,17 @@
 **Query 1:**
 
 1. What changes require code review before merge?
-2. "Every change that affects production code, infrastructure, database migrations, security controls, customer-facing behavior, or shared libraries requires review before merge [Source 1]."
-3. The validation did not flag anything: 
+2.
+     "Every change that affects production code, infrastructure, database migrations, security controls, customer-facing behavior, or shared libraries requires review before       merge [Source 1]."
+4. The validation did not flag anything: 
 [Qualitative validation: PASSED]
   is_grounded: True
   refused_to_answer: False
   sources_cited: ['code-review-process.txt']
   flag: False
   warning: None
-4. I accepted the response without any changes becaue it answered the question correctly. However, it is difficult to understand exactly where the information is coming from, especially as a user with a surface level understanding. The citation of [Source 1] does not really help determine where it came from. For this reason, I changed the prompt to cite the .txt file and line it came from instead.
-5. When I made this change, it started to say that the information was no longer groudned in the sourced and multiple flags were raised. It turned out that by taking away the source number, I had messed witht he validator which was expecting that formation of citation formatting. For this reason, I modified the prompt once again to include both citation file name and source number. This allowed for the validation tests to pass again.
+5. I accepted the response without any changes becaue it answered the question correctly. However, it is difficult to understand exactly where the information is coming from, especially as a user with a surface level understanding. The citation of [Source 1] does not really help determine where it came from. For this reason, I changed the prompt to cite the .txt file and line it came from instead.
+6. When I made this change, it started to say that the information was no longer groudned in the sourced and multiple flags were raised. It turned out that by taking away the source number, I had messed witht he validator which was expecting that formation of citation formatting. For this reason, I modified the prompt once again to include both citation file name and source number. This allowed for the validation tests to pass again.
 
 Query 2: 
 1. "Compare Q4 performance across regions"
